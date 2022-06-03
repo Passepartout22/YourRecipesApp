@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609484479663",
+    "project_id": "solodroid-project-768ef",
+    "storage_bucket": "solodroid-project-768ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609484479663:android:603108916389a51b19885a",
+        "android_client_info": {
+          "package_name": "com.equipo3.yourrecipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609484479663-tbd2aam2f6g2unjgcgu2dhrgrrtufpaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzXn1T6Q9BrJ8FpPx0uRPwFELkNTUZ8Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609484479663-tbd2aam2f6g2unjgcgu2dhrgrrtufpaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
